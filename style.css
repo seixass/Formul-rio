@@ -1,0 +1,30 @@
+section{
+    max-width: 500px;
+    height: 300px;
+    margin: 50px auto;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    color: white;
+    border-radius: 5px;
+}
+
+input{
+    border-style: none;
+    outline-color: burlywood;
+    margin: 10px;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(255, 0, 255);
+    padding: 7px;
+    border-radius: 5px;
+    border-style: none;
+    outline-color: burlywood;
+    margin: 5px 0;
+}
